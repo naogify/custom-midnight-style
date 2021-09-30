@@ -1,8 +1,8 @@
 $name: Dragon Quest Style
 
-$background: #83ED31
-$waterColor: #3A52EE
-$highwayColor: #FCDC9E
+$background: "#83ED31"
+$waterColor: "#3A52EE"
+$highwayColor: "#FCDC9E"
 $textSettings:
   text-halo-blur: 0.5
   text-color: "#FFFFFF"
